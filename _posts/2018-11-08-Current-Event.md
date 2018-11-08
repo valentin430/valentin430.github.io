@@ -2,7 +2,7 @@
 layout: post
 title: Ted Cruz vs Beto O'Roruke
 ---
-<h3>Ted Cruz wins Texas Senate race, fending off challenge from Beto O'Rourke</h3>
+<h5>Ted Cruz wins Texas Senate race, fending off challenge from Beto O'Rourke</h5>
 
 Exit polls indicated Texas voters were relatively split about what they think the most important problem is facing the country. Over a third of voters said health care was the most important problem. Two-thirds of those voters went for O'Rourke.
 
