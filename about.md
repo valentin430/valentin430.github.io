@@ -19,7 +19,8 @@ permalink: /about/
 
 <h2>Education</h2>
 <ul>
-  <li>School of Hard Knocks</li>
+  <li>High School</li>
+  <li>Early College</li>
 </ul>
 
 
