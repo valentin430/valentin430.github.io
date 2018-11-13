@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: My Resume
 permalink: /about/
 ---
 
-<h1>My Resume</h1>
 <h2>Valentin Martinez</h2>
 
 <p>Email.etc</p>
