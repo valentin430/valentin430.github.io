@@ -4,11 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<h1>My Resume</h1>
+<h2>Valentin Martinez</h2>
 
-### More Information
+<p>Email.etc</p>
 
-A place to include any other types of information that you'd like to include about yourself.
+<h2>Skills</h2>
+
+<ul>
+  <li>HTML5 Coding</li>
+  <li>CSS Design</li>
+  <li>Photoshop Editing</li>
+  <li>Print Layout</li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+  <li>School of Hard Knocks</li>
+</ul>
+
 
 ### Contact me
 
