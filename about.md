@@ -6,7 +6,7 @@ permalink: /about/
 
 <h2>Valentin Martinez</h2>
 
-<p>(pretendthere'sanemailhere123@gmail.com</p>
+<p>(pretendthere'sanemailhere123@gmail.com)</p>
 
 <h2>Skills</h2>
 
